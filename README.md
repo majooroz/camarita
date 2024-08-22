@@ -1,1 +1,1 @@
-# camarita
+# Reconocimiento Óptico de Caracteres
